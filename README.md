@@ -4,6 +4,7 @@ A beautiful and interactive coffee shop mobile application built with Flutter, f
 
 ## 📱 Screenshots
 
+![App Demo](assets/Recording 2025-08-12 195912.mp4)
 
 
 ## ✨ Features
