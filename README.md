@@ -3,9 +3,10 @@
 A beautiful and interactive coffee shop mobile application built with Flutter, featuring liquid swipe animations and a realistic coffee ordering experience.
 
 ## 📱 Screenshots
-| !(assets/0.png) | !(assets/1.png) | !(assets/2.png) | !(assets/3.png) | !(assets/4.png) |
 
-![Welcome](assets/0.png)
+| ![Welcome](assets/0.png) | ![Welcome](assets/1.png)| ![Welcome](assets/2.png) | ![Welcome](assets/3.png) |
+
+![Welcome](assets/4.png) | ![Welcome](assets/5.png)
 
 [📱 Watch App Demo Video](assets/demo.mp4)
 
