@@ -1,6 +1,4 @@
-Got it — I can create a **README.md** for your `LOVELY_COFFE` Flutter app, including the fact that you used `flutter_animate` and `liquid_swipe`, and mentioning that you have screenshots.
 
-Here’s a complete example:
 
 ---
 
@@ -33,6 +31,7 @@ This project uses the following Flutter packages:
 ## 📂 Folder Structure
 ```
 
+
 lib/
 ├── data/
 │   ├── coffee\_data.dart
@@ -43,6 +42,7 @@ lib/
 │   ├── tabs/
 │   └── widgets/
 ├── main.dart
+
 
 ````
 
